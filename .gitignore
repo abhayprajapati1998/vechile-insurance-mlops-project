@@ -176,3 +176,5 @@ cython_debug/
 
 #project config
 vehicle_project.txt
+artifact/
+notebook/
